@@ -57,7 +57,7 @@ dns_servers = {
     "Google": ["8.8.8.8", "8.8.4.4"],
     "CloudFlare": ["1.1.1.1", "1.0.0.1"],
     "OpenDNS": ["208.67.222.222", "208.67.220.220"],
-    "AdGuard": ["94.140.14.14", "94.140.15."],
+    "AdGuard": ["94.140.14.14", "94.140.15.15"],
 }  # Add more DNS servers if needed
 
 # Create a listbox to display DNS server options
